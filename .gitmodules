@@ -16,3 +16,72 @@
 [submodule "yaml-cpp"]
 	path = yaml-cpp
 	url = https://github.com/jbeder/yaml-cpp.git
+[submodule "cli"]
+	path = cli
+	url = https://github.com/daniele77/cli.git
+[submodule "sqlite_orm"]
+	path = sqlite_orm
+	url = https://github.com/fnc12/sqlite_orm.git
+[submodule "awesome-cpp"]
+	path = awesome-cpp
+	url = https://github.com/fffaraz/awesome-cpp.git
+[submodule "pytorch_sparse"]
+	path = pytorch_sparse
+	url = https://github.com/rusty1s/pytorch_sparse.git
+[submodule "fmtlog"]
+	path = fmtlog
+	url = https://github.com/MengRao/fmtlog.git
+[submodule "media-server"]
+	path = media-server
+	url = https://github.com/ireader/media-server.git
+[submodule "googletest"]
+	path = googletest
+	url = https://github.com/google/googletest.git
+[submodule "glog"]
+	path = glog
+	url = https://github.com/google/glog.git
+[submodule "folly"]
+	path = folly
+	url = https://github.com/facebook/folly.git
+[submodule "llama2.c"]
+	path = llama2.c
+	url = https://github.com/karpathy/llama2.c.git
+[submodule "C-Plus-Plus"]
+	path = C-Plus-Plus
+	url = https://github.com/TheAlgorithms/C-Plus-Plus.git
+[submodule "gtest-runner"]
+	path = gtest-runner
+	url = https://github.com/nholthaus/gtest-runner.git
+[submodule "openmv-ide"]
+	path = openmv-ide
+	url = https://github.com/openmv/openmv-ide.git
+[submodule "awesome-qt"]
+	path = awesome-qt
+	url = https://github.com/insideqt/awesome-qt.git
+[submodule "Clementine"]
+	path = Clementine
+	url = https://github.com/clementine-player/Clementine.git
+[submodule "QWidgetDemo"]
+	path = QWidgetDemo
+	url = https://github.com/feiyangqingyun/QWidgetDemo.git
+[submodule "shotcut"]
+	path = shotcut
+	url = https://github.com/mltframework/shotcut.git
+[submodule "safe-rules"]
+	path = safe-rules
+	url = https://github.com/Qihoo360/safe-rules.git
+[submodule "rapidjson"]
+	path = rapidjson
+	url = https://github.com/Tencent/rapidjson.git
+[submodule "libhv"]
+	path = libhv
+	url = https://github.com/ithewei/libhv.git
+[submodule "yuv-viewer"]
+	path = yuv-viewer
+	url = https://github.com/figgis/yuv-viewer.git
+[submodule "cppy3"]
+	path = cppy3
+	url = https://github.com/reefactor/cppy3.git
+[submodule "pybind11"]
+	path = pybind11
+	url = https://github.com/wjakob/pybind11.git
