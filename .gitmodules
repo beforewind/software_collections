@@ -85,3 +85,12 @@
 [submodule "pybind11"]
 	path = pybind11
 	url = https://github.com/wjakob/pybind11.git
+[submodule "pykan"]
+	path = pykan
+	url = https://github.com/KindXiaoming/pykan.git
+[submodule "mongoose"]
+	path = mongoose
+	url = https://github.com/cesanta/mongoose.git
+[submodule "PyFlow"]
+	path = PyFlow
+	url = https://github.com/wonderworks-software/PyFlow.git
